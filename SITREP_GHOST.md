@@ -10,7 +10,7 @@ The objective was to gather **OSINT** parameters from exposed **Index** server d
 
 ## 2. EXPERIENTIAL FINDINGS
 I utilized advanced search logic parameters to isolate specific public data footprints.
-* **Target URL Discovered:** [Paste the exact exposed URL link you discovered in Block 1]
+* **Target URL Discovered:** https://extnag.tacc.utexas.edu/sites/u5F2FE/246491/Google%20Hacking%20Database.pdf
 * **Vulnerability Analysis:** Internal data pathways remained visible to background automated crawlers due to lack of standard administrative OPSEC configurations.
 
 ## 3. DECEPTION VECTOR ANALYSIS
